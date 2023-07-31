@@ -1,3 +1,2 @@
-# R
-##Example
-###first
+# Example of README.md
+
